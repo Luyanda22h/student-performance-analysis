@@ -24,4 +24,6 @@ This project analyses student performance data using Python. The goal is to expl
 ## Conclusion
 While increased study hours may contribute to improved performance, the wide dispersion suggests that student peformance is also significantly influenced by other factors, such as study quality, prior knowledge, or learning strategies.
 
+## Author
+Luyanda Samkelo Mshengu
 
